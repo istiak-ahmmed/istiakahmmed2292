@@ -35,7 +35,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=istiak-ahmmed&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="istiak-ahmmed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=istiakahmmed2292&show_icons=true&locale=en&theme=tokyonight" alt="istiakahmmed2292" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=istiak-ahmmed&show_icons=true&locale=en&theme=tokyonight" alt="istiak-ahmmed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=istiakahmmed2292&theme=tokyonight" alt="istiakahmmed2292" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=istiak-ahmmed&theme=tokyonight" alt="istiak-ahmmed" /></p>
 
