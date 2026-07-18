@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **istiakahmmed.official@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/istiakahmmed2292/](https://github.com/istiak-ahmmed/)
+- 📄 Know about my experiences [https://github.com/istiak-ahmmed/](https://github.com/istiak-ahmmed/)
 
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=istiak-ahmmed" alt="istiak-ahmmed" /></a> </p>
 
