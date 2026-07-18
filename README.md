@@ -16,9 +16,9 @@
 
 - 📫 How to reach me **istiakahmmed.official@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/istiakahmmed2292/](https://github.com/istiakahmmed2292/)
+- 📄 Know about my experiences [https://github.com/istiakahmmed2292/](https://github.com/istiak-ahmmed/)
 
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=istiakahmmed2292" alt="istiakahmmed2292" /></a> </p>
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=istiak-ahmmed" alt="istiak-ahmmed" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/siyamistiak" target="blank"><img src="https://img.shields.io/twitter/follow/siyamistiak?logo=twitter&style=for-the-badge" alt="siyamistiak" /></a> </p>
 
